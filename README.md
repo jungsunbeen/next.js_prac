@@ -1,7 +1,9 @@
 # Next.js_prac
 
-### **`week26-1`** : Next.js를 활용한 SSR 실습
-### **`week26-2`** : Next.js 13를 활용한 실습
+#### **`week26-1`** : Next.js를 활용한 SSR 실습
+#### **`week26-2`** : Next.js 13를 활용한 실습
+
+## 과제하는 법
 ### 1. git clone 하기
 
 ```bash
