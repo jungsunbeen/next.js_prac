@@ -10,6 +10,7 @@
 git clone https://github.com/jungsunbeen/Next.js_prac
 ```
 ```
+cd Next.js_prac
 cd week26-2
 npm install
 ```
